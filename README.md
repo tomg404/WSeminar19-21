@@ -3,7 +3,7 @@ Titel: "Hacken von Sprachassistenten mithilfe von Audio-Injektion durch Laser"
 ## Inhalt
 * Bilder und Diagramme
 * Messdaten (CSV und BIN)
-* Seminararbeit [(hier klicken zum Lesen)](https://raw.githubusercontent.com/tomg404/WSeminar19-21/main/PDFs/Seminararbeit(final).pdf)
+* Seminararbeit ([hier klicken zum Lesen](https://raw.githubusercontent.com/tomg404/WSeminar19-21/main/PDFs/Seminararbeit(final).pdf))
 * Skripte (Python, C++)
 ## Ordner Struktur
 <pre>
