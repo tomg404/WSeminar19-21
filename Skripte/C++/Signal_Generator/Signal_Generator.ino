@@ -2,7 +2,7 @@
   Signal Generator on ATTiny 13A
   My Arduino IDE Settings: https://i.imgur.com/gAp5znc.png
   Follow this guide for setup: https://create.arduino.cc/projecthub/taunoerik/programming-attiny13-with-arduino-uno-07beba
-  W-Seminar Project: "Hacken von Sprachassistenten mithilfe von Laser basierter Audio Injektion"
+  W-Seminar Project: "Hacken von Sprachassistenten mithilfe von Audio-Injektion durch Laser"
   (c) Tom Gaimann, 2020
 */
 
