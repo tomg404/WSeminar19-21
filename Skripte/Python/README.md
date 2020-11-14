@@ -9,3 +9,5 @@ Außerdem müssen die Ordner `Data`, `PGFplots` und `PNGplots` existieren um Dat
 Ausgeführt werden die Programme folgendermaßen:
 ```python name_des_skripts.py [png/pgf]```
 `PNG` und `PGF` sind hierbei optional um das Diagramm in das gewünschte Format zu exportieren.
+
+Die fertigen Diagramme können auch direkt unter `Bilder\Plots\PNG` abgerufen werden.
