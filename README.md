@@ -1,5 +1,6 @@
 # Seminararbeit Q12
-Titel: "Hacken von Sprachassistenten mithilfe von Audio-Injektion durch Laser"
+##### Hacken von Sprachassistenten mithilfe von Audio-Injektion durch Laser
+![Versuchsaufbau](https://raw.githubusercontent.com/tomg404/WSeminar19-21/main/Bilder/Sonstiges/versuchsaufbau5.jpg)
 ## Inhalt
 * Bilder und Diagramme
 * Messdaten (CSV und BIN)
